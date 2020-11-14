@@ -1,7 +1,24 @@
 #id_5{
-background-image: url("nebula.jpg");
-    color: white;
+background-image: url("arabic.jpg");
+    color: goldenrod;
 }
 #id_6{
 background-image: url(https://cf.bstatic.com/images/hotel/max1024x768/560/56021261.jpg);
+}
+article#personal{
+   margin-top: 50px;
+    margin-left: 50px;
+    margin-right:50px;
+    margin-bottom:50px;
+}
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right:50px;
+    margin-bottom:50px;
+}
+.headd{
+    margin-left: 50px;
+    margin-right:50px;
+    color:gold;
 }
